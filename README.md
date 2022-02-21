@@ -1,18 +1,18 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=baabshinelle&label=Profile%20views&color=e91e63&style=flat" alt="baabshinelle" /> </p>
-<p align="center"> <img src="https://img.shields.io/github/followers/baabshinelle?style=social" alt="baabshinelle" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=baabashinelle&label=Profile%20views&color=e91e63&style=flat" alt="baabashinelle" /> </p>
+<p align="center"> <img src="https://img.shields.io/github/followers/baabashinelle?style=social" alt="baabashinelle" /> </p>
 
-# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello gif">, Bentil here!
+# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello gif">, Baaba here!
 
-- 🌱 I'm currently learning Mobile App development using React Native from CS50 💫.
+- 🌱 I'm currently learning 
 
-- 🌱 I’m  working on a students resource and MCQ trial web app still in development. This is for all tertiary students. 
-- 🌱 I have developed a knowledgebase and Question and answeres community for students (askme.uglearner.com)🎉
+- 🌱 I’m  working on 
+- 🌱 I have developed a 
 - 🤔 I’m looking for help with advancing my Codes.
 - 💬 Ask me about solving problems and building innovative ideas through Tech.
-- 📫 How to reach me: bentilshadrack72@gmail.com, twitter @themanbentil, Instagram @baabshinelle
-- 🦾 Computer languages I can speak?,English, Javascript, Typescript, PHP, JAVA, Python, C++ - HTML CSS (cant be counted but...well..yeah)
+- 📫 How to reach me: Instagram @baabashinelle
+- 🦾 Computer languages I can speak?
 - 🌌 Proficiently Skilled in - (Web Application Development) NodeJS, AngularJS, ReactJS, ExpressJS, (Databases) - SQL, MySql.
-- ⚡ Fun facts: Listiening to Musics🎧🎵 & Surfing the internet🌎🌐 
+- ⚡ Fun facts: 
 <h3 align="left">⚙ My Tech Stack:</h3>
 
 <p align="left">
@@ -32,10 +32,10 @@
 </p>
 
 ## **I've got everything to do with writing codes😍**
-![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=baabshinelle&theme=dracula&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baabshinelle&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baabshinelle&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baabshinelle&theme=github_dark)
-[![Baaba Shinelle's stats](https://github-readme-stats.vercel.app/api?username=baabshinelle&show_icons=true&theme=github_dark)](https://github.com/baabshinelle)
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=baabashinelle&theme=dracula&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baabashinelle&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baabashinelle&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baabashinelle&theme=github_dark)
+[![Baaba Shinelle's stats](https://github-readme-stats.vercel.app/api?username=baabashinelle&show_icons=true&theme=github_dark)](https://github.com/baabashinelle)
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=baabshinelle&theme=dracula)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=baabashinelle&theme=dracula)  
