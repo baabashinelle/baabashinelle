@@ -36,6 +36,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baabshinelle&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baabshinelle&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baabshinelle&theme=github_dark)
-[![Bentil Shadrack's stats](https://github-readme-stats.vercel.app/api?username=baabshinelle&show_icons=true&theme=github_dark)](https://github.com/baabshinelle)
+[![Baaba Shinelle's stats](https://github-readme-stats.vercel.app/api?username=baabshinelle&show_icons=true&theme=github_dark)](https://github.com/baabshinelle)
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=baabshinelle&theme=dracula)  
