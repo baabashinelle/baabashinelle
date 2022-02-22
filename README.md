@@ -3,23 +3,18 @@
 
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello gif">, Baaba here!
 
-- 🌱 I'm currently learning 
-
-- 🌱 I’m  working on 
-- 🌱 I have developed a 
+- 🌱 I'm currently learning CS50's Mobile App Development with React Native
+- 🌱 I’m  working on frontend projects.
 - 🤔 I’m looking for help with advancing my Codes.
-- 💬 Ask me about solving problems and building innovative ideas through Tech.
-- 📫 How to reach me: Instagram @baabashinelle
-- 🦾 Computer languages I can speak?
-- 🌌 Proficiently Skilled in - (Web Application Development) NodeJS, AngularJS, ReactJS, ExpressJS, (Databases) - SQL, MySql.
-- ⚡ Fun facts: 
+- 📫 How to reach me: Email @baabadampare@gmail.com
+- 🌌 Skilled in - Frontend Web Development
 <h3 align="left">⚙ My Tech Stack:</h3>
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" >&nbsp;&nbsp;
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" >&nbsp;&nbsp; -->
 <!-- <img src="images/Qt.png" alt="PyQt" width="30" />&nbsp;&nbsp; -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" >&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" alt="SQLite" width="30" >&nbsp;&nbsp;
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" >&nbsp;&nbsp; -->
+<!-- <img src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" alt="SQLite" width="30" >&nbsp;&nbsp; -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" >&nbsp;&nbsp; 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" >&nbsp;&nbsp; 
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="30" >&nbsp;&nbsp;  -->
