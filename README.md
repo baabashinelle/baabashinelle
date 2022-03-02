@@ -5,7 +5,6 @@
 
 - 🌱 I'm currently learning CS50's Mobile App Development with React Native
 - 🌱 I’m  working on frontend projects.
-- 🤔 I’m looking for help with advancing my Codes.
 - 📫 How to reach me: Email @baabadampare@gmail.com
 - 🌌 Skilled in - Frontend Web Development
 <h3 align="left">⚙ My Tech Stack:</h3>
