@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=baabashinelle&label=Profile%20views&color=e91e63&style=flat" alt="baabashinelle" /> </p>
 <p align="center"> <img src="https://img.shields.io/github/followers/baabashinelle?style=social" alt="baabashinelle" /> </p>
 
-# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello gif">, Baaba here!
+# Hey! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello gif">, Baaba here!
 
 - 🌱 I'm currently learning WEB3 and CS50's Mobile App Development with React Native
 - 🌱 I’m  working on frontend projects.
