@@ -4,7 +4,7 @@
 # Hey! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello gif">, Baaba here!
 
 - 🌱 I'm currently learning WEB3 and CS50's Mobile App Development with React Native
-- 🌱 I’m  working on frontend projects.
+- 🌱 I’m  working on frontend projects as a way to master frontend.
 - 📫 How to reach me: Email @baabadampare@gmail.com
 - 🌌 Skilled in - Frontend Web Development
 <h3 align="left">⚙ My Tech Stack:</h3>
